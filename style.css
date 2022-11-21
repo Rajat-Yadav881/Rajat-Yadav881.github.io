@@ -71,7 +71,7 @@ section .title::after{
     bottom: -8px;
     left: 50%;
     font-size: 20px;
-    color: crimson;
+    color: rgb(61,90,128);
     padding: 0 5px;
     background: #fff;
     transform: translateX(-50%);
@@ -209,7 +209,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .home .home-content a:hover{
-    color: crimson;
+    color: rgb(61,90,128);
     background: none;
 }
 
